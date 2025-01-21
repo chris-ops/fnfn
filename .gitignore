@@ -1,0 +1,9 @@
+.env
+data/finetuned_models/*
+data/whatsapp/*
+**__pycache__**
+*.pyc
+venv_name
+inference
+telegram_bot
+preprocessing
